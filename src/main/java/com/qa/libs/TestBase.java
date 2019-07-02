@@ -1,8 +1,12 @@
 package com.qa.libs;
 
 public class TestBase {
-
-	public void test() {
+	
+	public static void main(String[] args) {
+		test();
+	}
+	
+	public static void test() {
 		System.out.println("test method");
 	}
 	

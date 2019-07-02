@@ -7,4 +7,7 @@ public class LoginPage {
 		System.out.println("loginPage method");
 	}
 	
+	public void loginSet() {
+		System.out.println("loginSet method");
+	}
 }
